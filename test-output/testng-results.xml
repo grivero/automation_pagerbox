@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="299854" started-at="2014-06-13T18:23:00Z" finished-at="2014-06-13T18:28:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="299854" started-at="2014-06-13T18:23:00Z" finished-at="2014-06-13T18:28:00Z">
+      <class name="com.ucsf.pagerbox.GetWithCategoryId">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ucsf.pagerbox.GetWithCategoryId@a9ae05]" name="setup" is-config="true" duration-ms="3723" started-at="2014-06-13T11:23:00Z" finished-at="2014-06-13T11:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="hackPage()[pri:0, instance:com.ucsf.pagerbox.GetWithCategoryId@a9ae05]" name="hackPage" duration-ms="295983" started-at="2014-06-13T11:23:04Z" finished-at="2014-06-13T11:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hackPage -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.ucsf.pagerbox.GetWithCategoryId@a9ae05]" name="quit" is-config="true" duration-ms="136" started-at="2014-06-13T11:28:00Z" finished-at="2014-06-13T11:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.ucsf.pagerbox.GetWithCategoryId -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
